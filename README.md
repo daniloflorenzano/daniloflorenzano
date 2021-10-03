@@ -1,4 +1,4 @@
-### Eae, tudo bem?
+### Eae, tudo bem? 👋
 
 ##
 
