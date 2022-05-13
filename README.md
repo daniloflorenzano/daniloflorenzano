@@ -6,7 +6,7 @@ Comecei a estudar programação no começo de 2020. Comecei com HTML, CSS e Java
 * 🌍  Brasil
 * ✉️  Entre em contato [daniloflorenzano1@outlook.com](mailto:daniloflorenzano1@outlook.com)
 * 🚀  Atualmente trabalhando em [Santa Casa de Misericórdia de Resende](https://santacasaresende.org.br/)
-* 🧠  Iniciando estudoes em Java
+* 🧠  Iniciando estudos em Java
 * ⚡ Curioso e autodidata. Não há nada que eu não possa aprender.
 
 ### Skills
