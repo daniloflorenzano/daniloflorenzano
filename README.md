@@ -2,11 +2,11 @@
 ==================================
 Aluno de Sistemas de Informação | Programador JavaScript
 --------------------------------------------------------
-Comecei a estudar programação no começo de 2020. Comecei com HTML, CSS e JavaScript e hoje programo em TypeScript usando React / Next.js para o Front-end e faço APIs REST usando Node.js + Express. Atualmente trabalho como Técnico de Informática e busco oportunidades como desenvolvedor.
+Comecei a estudar programação no começo de 2020. Comecei com HTML, CSS e JavaScript e hoje programo em TypeScript usando React / Next.js para o Front-end e faço APIs REST usando Node.js + Express. Atualmente sou estagiário na Exato Digital e participo do time de desenvolvimento trabalhando principalmente com backend C#.
 * 🌍  Brasil
 * ✉️  Entre em contato [daniloflorenzano1@outlook.com](mailto:daniloflorenzano1@outlook.com)
-* 🚀  Atualmente trabalhando em [Santa Casa de Misericórdia de Resende](https://santacasaresende.org.br/)
-* 🧠  Iniciando estudos em Java
+* 🚀  Atualmente trabalhando em [Exato Digital](https://www.linkedin.com/company/exatodigital/mycompany/)
+* 🧠  Estudando C# e .NET
 * ⚡ Curioso e autodidata. Não há nada que eu não possa aprender.
 
 ### Skills
