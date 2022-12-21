@@ -8,7 +8,7 @@ Mais de um ano de experiência estudando programação web usando tecnologias co
 
 *   🌍  Brazil
 *   🖥️  Da uma olhada no meu [Linkedin](http://www.linkedin.com/in/daniloflorenzano/)
-*   ✉️  Entre em contato [danilo.maia@aedb.br](mailto:danilo.maia@aedb.br)
+*   ✉️  Entre em contato [daniloflorenzano1@gmail.com](mailto:daniloflorenzano1@gmail.com)
 *   🧠  Estudando .NET e C#
 *   🤝  Pode me chamar pra colaborar em projetos open source ou voltados para educação
 *   ⚡  Não tenho tecnologia de estimação, aprendo e uso o que precisar!
