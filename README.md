@@ -1,15 +1,15 @@
 Eae ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==============================================================================================================================================
 
-Desenvolvedor .NET e Javascript
+Desenvolvedor C# e .NET
 -------------------------------
 
-Mais de um ano de experiência estudando programação web usando tecnologias como React, Node.js, Express e outras. Atualmente estudo e desenvolvo emC# e .NET com foco em Back-End.
+Apaixonado por tudo quanto é tecnologia. Estudo de tudo um pouco, mas tenho como foco atualmente os conceitos de Orientação a Objeto e Design Patterns. Quanto a tecnologias, estudo Docker e AWS. Mas independente da ferramenta, o foco é solucionar o problema, e é por isso que é tão daora programar!
 
 *   🌍  Brazil
 *   🖥️  Da uma olhada no meu [Linkedin](http://www.linkedin.com/in/daniloflorenzano/)
 *   ✉️  Entre em contato [daniloflorenzano1@gmail.com](mailto:daniloflorenzano1@gmail.com)
-*   🧠  Estudando .NET e C#
+*   🧠  Estudando Design Patterns e AWS
 *   🤝  Pode me chamar pra colaborar em projetos open source ou voltados para educação
 *   ⚡  Não tenho tecnologia de estimação, aprendo e uso o que precisar!
 
