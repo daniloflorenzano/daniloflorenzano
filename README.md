@@ -4,8 +4,6 @@ Eae ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Desenvolvedor C# e .NET
 -------------------------------
 
-Apaixonado por tudo quanto é tecnologia. Estudo de tudo um pouco, mas tenho como foco atualmente os conceitos de Orientação a Objeto e Design Patterns. Quanto a tecnologias, estudo Docker e AWS. Mas independente da ferramenta, o foco é solucionar o problema, e é por isso que é tão daora programar!
-
 *   🌍  Brazil
 *   🖥️  Da uma olhada no meu [Linkedin](http://www.linkedin.com/in/daniloflorenzano/)
 *   ✉️  Entre em contato [daniloflorenzano1@gmail.com](mailto:daniloflorenzano1@gmail.com)
