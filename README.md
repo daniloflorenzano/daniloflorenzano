@@ -7,7 +7,7 @@ Desenvolvedor C# e .NET
 *   🌍  Brazil
 *   🖥️  Da uma olhada no meu [Linkedin](http://www.linkedin.com/in/daniloflorenzano/)
 *   ✉️  Entre em contato [daniloflorenzano1@gmail.com](mailto:daniloflorenzano1@gmail.com)
-*   🧠  Estudando Design Patterns e AWS
+*   🧠  Acompanhe o que estou estudando: https://github.com/daniloflorenzano/Livros
 *   🤝  Pode me chamar pra colaborar em projetos open source ou voltados para educação
 *   ⚡  Não tenho tecnologia de estimação, aprendo e uso o que precisar!
 
