@@ -6,7 +6,7 @@ Desenvolvedor de Software
 
 *   🌍  Brazil
 *   🖥️  [Linkedin](http://www.linkedin.com/in/daniloflorenzano/)
-*   ✉️  [daniloflorenzano1@gmail.com](mailto:daniloflorenzano1@outlook.com)
+*   ✉️  [daniloflorenzano1@outlook.com](mailto:daniloflorenzano1@outlook.com)
 *   🤝  Pode me chamar pra colaborar em projetos open source e ou voltados para educação
 
   
